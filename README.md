@@ -15,6 +15,7 @@ $ ls
  ```
  
  ### install
+ ```
  git clone https://github.com/LemonYellowParrot/testprg.git
  cd testprg
  scp ~/mykey.pem ./
